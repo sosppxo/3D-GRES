@@ -1,6 +1,7 @@
 # 3D-GRES
 [MM2024 Oral] 3D-GRES: Generalized 3D Referring Expression Segmentation.
 
+## Guide
 **[🔗[arXiv]](https://arxiv.org/abs/2407.20664)** &emsp; 
 **[📄[PDF]](https://arxiv.org/pdf/2407.20664)** &emsp;
 **[⌨️[Source Code]](https://github.com/sosppxo/MDIN)** &emsp;
