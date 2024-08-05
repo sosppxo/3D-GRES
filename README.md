@@ -5,7 +5,7 @@
 **[📄[PDF]](https://arxiv.org/pdf/2407.20664)** &emsp;
 **[⌨️[Source Code]](https://github.com/sosppxo/MDIN)** &emsp;
 
-Please access the benchmark and source code from our model repo [MDIN](https://github.com/sosppxo/MDIN).
+💡Please access the benchmark and source code from our model repo [MDIN](https://github.com/sosppxo/MDIN).💡
 
 ## Citation
 
