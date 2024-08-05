@@ -1,5 +1,6 @@
 # 3D-GRES
 ⚠️ Please access the benchmark and source code from our model repo [MDIN](https://github.com/sosppxo/MDIN). ⚠️
+
 [MM2024 Oral] 3D-GRES: Generalized 3D Referring Expression Segmentation.
 
 ## Guide
